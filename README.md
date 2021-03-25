@@ -1,5 +1,7 @@
 # Data-Analysis-on-Inventory-of-a-fleet-of-vehicles
 
+Intial Workbook: Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV
+
 Several tasks perfomed in cleaning and preparing the data include:
 
 1.Changing the format of the file: Saving the CSV file as an XLSX file.
@@ -17,6 +19,7 @@ Several tasks perfomed in cleaning and preparing the data include:
 7.Department names:Using Flash Fill to reduce the department names to just one column as shown below, and then removing any unnecessary columns.
 
 Department	
+
 Board of Elections
 
 Economic Development
@@ -43,4 +46,4 @@ Health and Human Services
 
 County Executives Office	
 
-8.Saving the workbook
+8.Saving the workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX
