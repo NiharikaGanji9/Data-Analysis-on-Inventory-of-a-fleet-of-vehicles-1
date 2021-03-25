@@ -2,7 +2,7 @@
 
 Intial Workbook: Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV
 
-Several tasks perfomed in cleaning and preparing the data include:
+##Several tasks perfomed in cleaning and preparing the data include:
 
 1.Changing the format of the file: Saving the CSV file as an XLSX file.
 
